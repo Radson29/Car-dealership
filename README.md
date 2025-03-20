@@ -156,3 +156,25 @@ Configured using **Logback** with:
 - **Detailed log patterns**
 - Different log levels for various environments
 
+## Testing Login Feature
+### To test the login feature:
+- **Go to the Security section in the code.**
+- **Uncomment the appropriate filters to enable login functionality.**
+- **For testing purposes, use test as the password for all users.**
+- **Usernames can be found in the V3_1__init_users.sql file.**
+
+
+## Application gallery
+
+
+
+
+
+
+
+
+
+http://localhost:8190/car-dealership/swagger-ui/index.html
+
+
+
