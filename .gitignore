@@ -1,0 +1,37 @@
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Gradle
+/.gradle/
+/build/
+/out/
+
+# Logs
+*.log
+
+# Spring Boot specific
+/*.jar
+/*.war
+/*.ear
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# System-specific
+/.DS_Store
+/.env
+/.vscode/
+
+# Compiled class files
+*.class
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Miscellaneous
+/node_modules/
