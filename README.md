@@ -165,16 +165,25 @@ Configured using **Logback** with:
 
 
 ## Application gallery
-
-
-
-
-
-
-
-
-
+<img src="Screenshots/Screenshot_1.png" alt="1" width="1000"/>
+<img src="Screenshots/Screenshot_2.png" alt="1" width="1000"/>
+<img src="Screenshots/Screenshot_3.png" alt="1" width="1000"/>
+<img src="Screenshots/Screenshot_4.png" alt="1" width="1000"/>
+<img src="Screenshots/Screenshot_5.png" alt="1" width="1000"/>
+<img src="Screenshots/Screenshot_6.png" alt="1" width="1000"/>
 http://localhost:8190/car-dealership/swagger-ui/index.html
+<img src="Screenshots/Screenshot_7.png" alt="1" width="1000"/>
+<img src="Screenshots/Screenshot_8.png" alt="1" width="1000"/>
+
+
+
+
+
+
+
+
+
+
 
 
 
